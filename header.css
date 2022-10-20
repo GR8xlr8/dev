@@ -122,6 +122,11 @@ main
     &:hover
       box-shadow: 0 16px 16px -4px rgba(#000, .1)
       transform: scale(1.02)
+
+h1 {  
+    color: navy;  
+    margin-left: 20px;  
+}   
       
     
 footer
